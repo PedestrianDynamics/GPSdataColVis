@@ -11,10 +11,10 @@ the second phase, we have carried out a simulation for 5000 pedestrians to quant
 The  web server should be online and supports PHP7 (or above) and MySQL database.
 
 #### Installation
-\1. Creating new database in MySQL.
-\2. Opening the database and Importing MySQL_tables.sql file.
-\3. Copying Web server directory  to web root directory.
-\4. Opening the db.php file, and setting the required parameters/variables.
+1. Creating new database in MySQL.
+2. Opening the database and Importing MySQL_tables.sql file.
+3. Copying Web server directory  to web root directory.
+4. Opening the db.php file, and setting the required parameters/variables.
 
 
 ### Android-based mobile application
