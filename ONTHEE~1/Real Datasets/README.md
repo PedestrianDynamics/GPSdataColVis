@@ -1,9 +1,0 @@
-We have deployed thedeveloped application on client smartphone devices for trackingtheir positions and sending this data to the web server for furtherprocessing. In particular, the application uses the smartphone’sGPS sensor to determine users’ positions while they are movingin an open space. After the user starts the application and agreesto use its associated GPS data collector for research purposes, theapplication starts collecting the current position of pedestriansmoving at open events periodically (every second), and directly transfers the obtained GPS data over an active internet connection to the web server. The application remains active unlessit is explicitly closed by the user. To ensure protecting users’privacy, the application does not collect any private informationabout the smartphone, as it just collects the positions (latitudeand longitude) that are spotted inside the event’s area to be visualized later in the form of heat maps. 14184 positions were collected in the real experiment was conducted in several open areas at the new campus at An Najah National University in Palestine. The area of the new campus is about 137.000 square meters, and its bounding box is identified by the following latitude and longitude: (32.22682, 35.22493), (32.2294, 35.2196). Open area with no high building as well as open area that are surrounded by high building are selected. Nine users with different types of android mobile phones have installed the android application and participated in the real experiment, the following table shows the structure of the data.
-
-Field	Description
-Id:	A unique identifier for the position (incremental number)
-User Id:	An identifier for the user (incremental number)
-latitude:	latitude of the user’s position
-longitude:	longitude of the user’s position
-timestamp:	Date and time for the obtained position
-Accuracy:	horizontal accuracy of the user’s position
