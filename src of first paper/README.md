@@ -25,7 +25,7 @@ Android Studio over Java, compileSdkVersion 29 and minSdkVersion 15.
 
 #### Installation
 1. Opening the AMM project using android studio.
-2. Update url1 variable in BackgroundTask.java file line 30 (AMM\app\src\main\java\com\example\amm) to the online URL of  insertLocation.php file in a web server.
+2. Update url1 variable in BackgroundTask.java file line 30 (app\src\main\java\com\example\amm) to the online URL of  insertLocation.php file in a web server.
 3. Generating APK file.
 
 ### Datasets
