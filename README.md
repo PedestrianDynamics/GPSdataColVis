@@ -152,7 +152,7 @@ To add the required public URL, you need firstly to prepare the Android Developm
 ---
 ### The screenshot of android-based mobile application
 
-<p align="center"><img src="./mobile.JPG" width="300px" ></p>
+<p align="center"><img src="./mobile.jpg" width="300px" ></p>
 
 ---
 
